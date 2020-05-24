@@ -1,6 +1,6 @@
 {
   "name": "apollo-server-cache-sql",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Minimalistic Apollo Server SQL Cache driver",
   "main": "dist/cache.js",
   "types": "dist/cache.d.ts",
