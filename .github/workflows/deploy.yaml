@@ -17,10 +17,6 @@ jobs:
           scope: '@octocat'
       - name: Install ⚙️
         run: yarn install
-      - name: Lint 💉
-        run: yarn lint
-      - name: Test 🛡️
-        run: yarn test
       - name: Build 🔧
         run: yarn build
       - name: Deploy 🚀
