@@ -1,10 +1,10 @@
 {
-  "name": "apollo-server-sql-cache",
-  "version": "0.0.1",
+  "name": "apollo-server-cache-sql",
+  "version": "0.0.3",
   "description": "Minimalistic Apollo Server SQL Cache driver",
   "main": "dist/cache.js",
   "types": "dist/cache.d.ts",
-  "repository": "git@github.com:MatissJanis/apollo-server-sql-cache.git",
+  "repository": "git@github.com:MatissJanis/apollo-server-cache-sql.git",
   "author": "Matiss Janis Aboltins <matiss@mja.lv>",
   "license": "MIT",
   "engines": {
