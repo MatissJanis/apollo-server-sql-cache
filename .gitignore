@@ -1,0 +1,8 @@
+# directories
+dist
+node_modules
+coverage
+
+# individual files
+.DS_Store
+yarn-error.log
