@@ -4,6 +4,7 @@
 ![Build and Deploy](https://github.com/MatissJanis/apollo-server-cache-sql/workflows/Build%20and%20Deploy/badge.svg)
 [![codecov](https://codecov.io/gh/MatissJanis/apollo-server-cache-sql/branch/master/graph/badge.svg)](https://codecov.io/gh/MatissJanis/apollo-server-cache-sql)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![npm](https://img.shields.io/npm/l/apollo-server-cache-sql.svg)](https://www.npmjs.com/package/apollo-server-cache-sql)
 
 Minimalistic Apollo Server SQL Cache driver for times when [Redis](https://github.com/apollographql/apollo-server/blob/master/packages/apollo-server-cache-redis) or other more modern caching solutions are too expensive or unavailable.
 

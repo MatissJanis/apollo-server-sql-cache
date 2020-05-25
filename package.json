@@ -4,9 +4,16 @@
   "description": "Minimalistic Apollo Server SQL Cache driver",
   "main": "dist/cache.js",
   "types": "dist/cache.d.ts",
-  "repository": "git@github.com:MatissJanis/apollo-server-cache-sql.git",
+  "repository": {
+    "url": "https://github.com/MatissJanis/apollo-server-cache-sql.git",
+    "type": "git"
+  },
   "author": "Matiss Janis Aboltins <matiss@mja.lv>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatissJanis/apollo-server-cache-sql/issues"
+  },
+  "homepage": "https://github.com/MatissJanis/apollo-server-cache-sql#readme",
   "engines": {
     "node": ">=8"
   },
