@@ -3,6 +3,7 @@
 [![npm version](https://badge.fury.io/js/apollo-server-cache-sql.svg)](https://badge.fury.io/js/apollo-server-cache-sql)
 ![Build and Deploy](https://github.com/MatissJanis/apollo-server-cache-sql/workflows/Build%20and%20Deploy/badge.svg)
 [![codecov](https://codecov.io/gh/MatissJanis/apollo-server-cache-sql/branch/master/graph/badge.svg)](https://codecov.io/gh/MatissJanis/apollo-server-cache-sql)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b26c27961c3b46df93d3cccf4bbc366e)](https://www.codacy.com/manual/matiss/apollo-server-cache-sql?utm_source=github.com&utm_medium=referral&utm_content=MatissJanis/apollo-server-cache-sql&utm_campaign=Badge_Grade)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![npm](https://img.shields.io/npm/l/apollo-server-cache-sql.svg)](https://www.npmjs.com/package/apollo-server-cache-sql)
 
