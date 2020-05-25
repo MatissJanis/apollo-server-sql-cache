@@ -23,8 +23,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "apollo-server-caching": "^0.5.1",
-    "mysql": "^2.18.1"
+    "apollo-server-caching": "^0.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
@@ -39,6 +38,7 @@
     "husky": "^4.2.5",
     "jest": "^26.0.1",
     "lint-staged": "^10.2.6",
+    "mysql": "^2.18.1",
     "prettier": "^2.0.5",
     "typescript": "^3.9.2"
   },
